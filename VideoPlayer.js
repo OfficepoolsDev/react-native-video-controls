@@ -1276,15 +1276,11 @@ const styles = {
       flexDirection: 'row',
       alignItems: 'center',
       justifyContent: 'space-between',
-      height: null,
-      width: null,
     },
     column: {
       flexDirection: 'column',
       alignItems: 'center',
       justifyContent: 'space-between',
-      height: null,
-      width: null,
     },
     vignette: {
       resizeMode: 'stretch',
@@ -1318,7 +1314,6 @@ const styles = {
       alignItems: 'center',
       justifyContent: 'space-between',
       flexDirection: 'row',
-      width: null,
       margin: 12,
       marginBottom: 18,
     },
